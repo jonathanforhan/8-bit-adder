@@ -1,0 +1,5 @@
+[verilog]
+include_paths = ["adders.srcs"]
+
+[option]
+linter = true
